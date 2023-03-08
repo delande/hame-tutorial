@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
+name = "hame"
 authors = [{name = "Dominique Delande", email = "Dominique.Delande@lkb.upmc.fr"}]
 dynamic = ["version", "description"]
