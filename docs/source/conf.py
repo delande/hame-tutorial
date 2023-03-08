@@ -22,6 +22,9 @@ autodoc_default_options = {
     'special-members': True,
     'private-members': True,
 }
+
+autodoc_mock_imports = ['pyamg']
+
 autosummary_generate = True
 
 templates_path = ['_templates']
