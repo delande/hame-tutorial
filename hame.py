@@ -34,11 +34,10 @@ __version__ = "1.0"
   It checks that results in length and velocity gauges are equal.
 """
 
-
-import numpy as np
+# import numpy as np
 import math
 import cmath
-import scipy.special
+# import scipy.special
 import sys
 
 def compute_dilatation_matrix(two_k: int, gamma: complex, nsup: int, debug: bool=False) -> np.ndarray:
