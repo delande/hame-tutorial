@@ -2,7 +2,7 @@ How to use the hame module
 ==========================
 In a typical usage, you will call a routine of the hame library to compute a matrix element.
 
-Some examples are given below. A Python script containing these examples is available :doc:`here <script>`.
+Some examples are given below. A Python script containing these examples is available `here <https://github.com/delande/hame/blob/main/compute_two_photon_matrix_element.py>`_.
 
 .. _usage:
 
