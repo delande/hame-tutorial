@@ -1,16 +1,10 @@
-API
-===
+Routines available in the hame module
+=====================================
 
-.. currentmodule: hame
+The following routines are available in the hame module. They are the core of the calculation of one-photon, two-photon and light-shift matrix elements.
+For examples on how to use them, see :doc:`usage`.
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: hame
+  :members:
+  
 
-   hame
-
-.. currentmodule: lumache
-
-.. autosummary::
-   :toctree: generated
-
-   lumache
