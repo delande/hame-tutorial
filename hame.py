@@ -9,6 +9,11 @@ It additionally performs the calculation in the velocity gauge.
 It checks that results in length and velocity gauges are equal.
 """
 
+__author__ = "Dominique Delande"
+__copyright__ = "Copyright (C) 2023 Dominique Delande"
+__license__ = "GPL version 2 or later"
+__version__ = "1.0"
+
 import numpy as np
 
 def toto():
