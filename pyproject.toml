@@ -6,3 +6,7 @@ build-backend = "flit_core.buildapi"
 name = "hame"
 authors = [{name = "Dominique Delande", email = "Dominique.Delande@lkb.upmc.fr"}]
 dynamic = ["version", "description"]
+dependencies = [
+  "numpy",
+  "scipy",
+]  
